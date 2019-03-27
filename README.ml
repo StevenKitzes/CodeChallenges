@@ -1,0 +1,1 @@
+This is a collection of solutions to interesting problems I've encountered on code challenge sites.  I admit to soliciting help with some of the algorithms I found difficult to wrap my head around, but all implementations are my own work.
